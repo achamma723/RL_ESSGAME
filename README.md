@@ -18,6 +18,7 @@ Maithra Raghu, Alex Irpan, Jacob Andreas, Robert Kleinberg, Quoc V. Le, Jon Klei
   ```
   pip install -e gym-defender/
   pip install -e gym-attacker/
+  pip install -e stable-baslines/
   ```
   3. You can choose all the possible values of K (the level) and the potential function.
   You will find the main usages of our environnements and agents in [a notebook (Notebook.ipynb)](Notebook.ipynb).
